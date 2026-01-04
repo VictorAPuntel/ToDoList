@@ -79,4 +79,4 @@ It focuses on understanding how UI, state, and persistence work together in a re
 ## 👤 Author
 
 Developed by **Victor Puntel**  
-Part of the **Domínio Fullstack** project
+Part of the **Fullstack Domain** project
